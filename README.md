@@ -1,1 +1,1 @@
-Ejemplo de caluldora
+Ejemplo de calculadora
